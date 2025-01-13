@@ -16,8 +16,8 @@
 ## How to run
 
 1. Initiate terraform in the folder you are working in with `terraform init`
-2. Inspect the plannes changes with terraform plan (accept with yes)
-3. Apply the changes with terraform apply
+2. Inspect the plannes changes with `terraform plan` (accept with yes)
+3. Apply the changes with `terraform apply`
 
 
 
